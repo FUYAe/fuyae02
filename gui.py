@@ -16,7 +16,7 @@ while True:
     btn01.pack()
 
 nihao
-    def dj(e):
+llllllyes    def dj(e):
         messagebox.showinfo('Message', '很好，你等了')
 
 
