@@ -15,7 +15,7 @@ while True:
     btn01['text'] = '等我'
     btn01.pack()
 
-
+nihao
     def dj(e):
         messagebox.showinfo('Message', '很好，你等了')
 
